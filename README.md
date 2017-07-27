@@ -167,7 +167,7 @@ uses the system, so choose wisely!
 
 Below are a few keys to remember when thinking about REST:
 
-* REST is an architectural design pattern, not a framework or code in itself. Many web frameworks utilize RESTful design principles in some form or another. By using RESTful principles, our apps are able to have a clear and standardized naming structure for routes and actions.
+* REST is an architectur al design pattern, not a framework or code in itself. Many web frameworks utilize RESTful design principles in some form or another. By using RESTful principles, our apps are able to have a clear and standardized naming structure for routes and actions.
 
 * RESTful routes have a clear mapping between the URL resource and the corresponding controller actions.
 
